@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+
+    android:layout_alignParentBottom="true"
+    android:background="@color/mostarda"
+    android:orientation="horizontal"
+    android:weightSum="5">
+
+    <view
+        android:id="@+id/bt1"
+        class="br.edu.ufcg.embedded.saojoao.model.BottomBarButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1" />
+
+    <view
+        android:id="@+id/bt2"
+        class="br.edu.ufcg.embedded.saojoao.model.BottomBarButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1" />
+
+    <view
+        android:id="@+id/bt3"
+        class="br.edu.ufcg.embedded.saojoao.model.BottomBarButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1">
+
+    </view>
+
+    <view
+        android:id="@+id/bt4"
+        class="br.edu.ufcg.embedded.saojoao.model.BottomBarButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1" />
+
+    <view
+        android:id="@+id/bt5"
+        class="br.edu.ufcg.embedded.saojoao.model.BottomBarButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_weight="1" />
+</LinearLayout>
+
+
+

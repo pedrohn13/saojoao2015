@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="laranja">#E07A55</color>
+    <color name="laranja_escuro">#A54F0D</color>
+    <color name="laranja_claro">#EFBDA7</color>
+    <color name="azul_escuro">#138dd8</color>
+    <color name="azul_claro">#3083b7</color>
+    <color name="azul">#27a0e9</color>
+    <color name="mostarda">#f67c01</color>
+    <color name="mostarda_escuro">#934900</color>
+    <color name="mostarda_claro">#fdcc7f</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="vermelho">#F90707</color>
+    <color name="amarelo">#C8CA04</color>
+    <color name="verde">#07f923</color>
+    <color name="preto">#000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+
+</resources>

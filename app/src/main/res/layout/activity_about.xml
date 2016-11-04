@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/bg">
+
+    <android.support.v7.widget.Toolbar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:title="@string/app_name"
+        android:layout_weight="1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:gravity="center"
+        android:weightSum="100"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:id="@+id/imageView2"
+            android:src="@drawable/about_icon" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:textSize="25dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/background"
+            android:text="@string/app_full_name" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:textColor="@color/background"
+            android:textSize="16dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Version 1.0" />
+
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="18"
+            android:textColor="@color/background"
+            android:textSize="16dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="2015 Copyright©\nLaboratorio de Sistemas Embarcados e Computacao Pervasiva - UFCG -Brasil"
+            />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="21"
+            android:textColor="@color/background"
+            android:textSize="16dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Desenvolvedores:\nLeonardo Avelino, Lucas Cavalcante,\nPedro Henriques, Victor Batista,\nWerton Guimarães"
+            />
+
+
+        <ImageView
+            android:layout_weight="15"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/imageView3"
+            android:src="@drawable/about_embedded" />
+
+
+    </LinearLayout>
+</RelativeLayout>

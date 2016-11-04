@@ -1,0 +1,200 @@
+﻿<resources>
+    <!--GOOGLE MAPS API DEBUG API KEY-->
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">-->
+    <!--AIzaSyBsBtOrz3KGZTpX6g2LGeOX3XTomQvF3SI-->
+    <!--</string>-->
+
+    <!--GOOGLE MAPS API RELEASE API KEY-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+          AIzaSyCGaYrtWCrGpfYg9FCut3Fc3C4psYGAUOw
+    </string>
+
+
+    <string name="app_id">br.edu.ufcg.embedded.saojoao</string>
+
+    <string name="app_name">São João 2015</string>
+    <string name="app_full_name">The Biggest São João of the World</string>
+    <string name="no_show">There are no shows scheduled on this day</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_lembretes">Reminders</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_search">Search</string>
+    <string name="programacao">Schedule</string>
+    <string name="hoje">Today</string>
+
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+
+    <string name="bt_restoom">Bathrooms</string>
+    <string name="bt_stages">Stages</string>
+    <string name="bt_enter_n_exit">Enter and Exit</string>
+    <string name="bt_emerg_exit">Emergency Exit</string>
+    <string name="bt_forroisland">Forro Island</string>
+    <string name="bt_restaurant">Restaurants</string>
+    <string name="bt_barraca">Tents</string>
+    <string name="bt_bar">Bars</string>
+    <string name="bt_kiosk">Kiosks</string>
+    <string name="bt_health_center">Health Center</string>
+    <string name="bt_police_point">Police Point</string>
+    <string name="bt_fireman">Fireman Point</string>
+    <!--<string name="bt_hydro">Hydrometer</string>-->
+    <string name="bt_interesting_point">Interesting Point</string>
+    <string name="bt_transportation_point">Transportation Point</string>
+    <string name="my_location">My Location</string>
+    <string name="bt_cancel">CANCEL</string>
+    <string name="bt_ok">OK</string>
+    <string name="pinpoint">Pinpoint</string>
+    <string name="to_pp">Parque do Povo</string>
+    <string name="shout_route">TRACE ROUTE</string>
+    <string name="carregando_localizacao">Loading Location</string>
+    <string name="enable_gps">Enable either GPS or any other location service. Click OK to go to location services settings to let you do so.</string>
+
+    <string name="notification_off">Not receive notifications in the days of the Bands marked as favorite</string>
+    <string name="notification_on">Receive notifications in the days of the Bands marked as favorite</string>
+    <string name="sem_bandas">No bookmarked bands.</string>
+
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_share">Show to a friend</string>
+    <string name="share_app_text">Do you wanna know everything about the Campina Grande\'s São João Festival? - I found an excellente app for Android: The Biggest São João in the World 2015.
+Get the app for free at </string>
+
+    <string name="ajuda_busca">Type the name of the Singer/Band</string>
+    <string name="nenhum_resultado">No singer/band found</string>
+    <string name="ja_se_apresentou">This singer/band has performed</string>
+    <string name="camera_not_found">Camera not available.</string>
+    <string name="no_camera">This device has no camera</string>
+    <string name="error_create_media">Error creating media file.</string>
+    <string name="img_saved">Image Saved on Gallery Successfully </string>
+    <string name="present_today_single">Will perform today</string>
+    <string name="present_today_plural">Will perform today</string>
+    <string name="its_today">Today is the day!!</string>
+
+    <string name="gate_1">Gate 1</string>
+    <string name="gate_2">Gate 2</string>
+    <string name="gate_3">Gate 3</string>
+    <string name="gate_4">Gate 4</string>
+    <string name="gate_5">Gate 5</string>
+    <string name="gate_6">Gate 6</string>
+    <string name="gate_7">Gate 7</string>
+
+    <string name="emerg_exit_1">House Mix 1</string>
+    <string name="emerg_exit_2">House Mix 2</string>
+    <string name="emerg_exit_3">Pirâmide 1</string>
+    <string name="emerg_exit_4">Pirâmide 2</string>
+
+    <string name="palco_principal">Main Stage</string>
+    <string name="piramide">Pirâmide Stage</string>
+    <string name="carreta">Carreta Palco</string>
+
+    <string name="cassino">Cassino Eldorado</string>
+    <string name="capitolio">Cine Capitólio</string>
+    <string name="catedral">Catedral</string>
+    <string name="vila_nova">Vila Nova da Rainha</string>
+    <string name="stanto">Stanto Junino</string>
+    <string name="beco">Beco Quadrilhão</string>
+    <string name="memorial">Quadrilhas Memorial</string>
+    <string name="telegrafo">Telégrafo</string>
+    <string name="fogueira">Giant Fire</string>
+    <string name="abrigo">Maringá Shelter</string>
+
+    <string name="ilha_1">Seu Vavá Palhoça</string>
+    <string name="ilha_2">Zé Bezerra Palhoça</string>
+    <string name="ilha_3">Zé Lagoa Palhoça</string>
+
+    <string name="barracas">Tents</string>
+    <string name="bares">Bars</string>
+    <string name="restaurantes">Restaurants</string>
+    <string name="quiosques">Kiosks</string>
+
+    <string name="tra_integracao">Integration Station</string>
+    <string name="tra_taxi">Taxi Point</string>
+    <string name="tra_moto_taxi">Moto-Taxi Point</string>
+
+    <string name="banheiros">Bathrooms</string>
+    <string name="policia">Police Point</string>
+    <string name="bombeiro">Fire Department</string>
+    <!--<string name="hidrometros">Hydrometer</string>-->
+    <string name="saude">Health Center</string>
+
+    <string name="d_gate_1">Corner of Sebastião Donato Street and Tirandentes Street</string>
+    <string name="d_gate_2"> Desembargador Trindade Street</string>
+    <string name="d_gate_3">Corner of Sebastião Donato Street and Frei Caneca Street</string>
+    <string name="d_gate_4">Dr. João Moura Street</string>
+    <string name="d_gate_5">Major Belmiro Street</string>
+    <string name="d_gate_6">Second entry in Street Paulino Raposo</string>
+    <string name="d_gate_7">First entry in Street Paulino Raposo</string>
+
+    <string name="d_emerg_exit_1">West Emergency Exit Main Stage Dance Floor</string>
+    <string name="d_emerg_exit_2">East Emergency Exit Main Stage Dance Floor</string>
+    <string name="d_emerg_exit_3">Emergency exit behind the Pyramid Stage</string>
+    <string name="d_emerg_exit_4">Pyramid Main Emergency Exit</string>
+
+    <string name="d_palco_principal">Stage where present the main bands/singers of São João</string>
+    <string name="d_palco_piramide">Stage inside the pyramid which hosts some events and performances several bands/singers.</string>
+    <string name="d_carreta">Stage mounted on a truck with the replica of Shelter Maringa facade</string>
+
+    <string name="d_cassino">Full-size replica of the Eldorado Casino</string>
+    <string name="d_capitolio">Full-size replica of the Cine Capitol facade</string>
+    <string name="d_catedral">Full-size replica of the facade of the Church of Campina Grande</string>
+    <string name="d_vila_nova">Representation of Campina Grande in the old days when it was known as Vila Nova da Rainha</string>
+    <string name="d_stanto" />
+    <string name="d_beco" />
+    <string name="d_memorial" />
+    <string name="d_telegrafo">Full-size replica of the Telegraph facade</string>
+    <string name="d_fogueira">Giant fire, São João symbol</string>
+
+    <string name="d_ilha">Where they have Forro\'s Trio: Accordion, Triangle and Zabumba. Accompanied people only.</string>
+
+    <string name="d_barraca">Small restaurants where you can buy snacks and meals.</string>
+    <string name="d_bar">Establishments which are usually found snacks and drinks.</string>
+    <string name="d_restaurante">Large establishments where you can find food</string>
+    <string name="d_quiosque">Small establishments where you can find food and drink.</string>
+
+    <string name="d_bath_4">Near Vila Nova da Rainha</string>
+    <string name="d_bath_p">Behind the Pyramid Stage</string>
+    <string name="d_bath_1">In the Gate 6 entrance hall</string>
+
+    <string name="d_integracao">Integration station where pass the majority of the city bus lines</string>
+    <string name="d_taxi">Cab Location Point where its possible to find paid tansportation via cab</string>
+    <string name="d_mototaxi">Motorcycle-Cab Location Point where its possible to find paid tansportation via motorcycle-cab</string>
+
+    <string name="d_policia">Police unit within Parque do Povo</string>
+    <string name="d_bombeiro">Fire Department unit within Parque do Povo</string>
+   <!-- <string name="d_hidrometro">Where it can be found a hydrometer</string>-->
+    <string name="d_saude_1">Health Center near the Main Stage</string>
+    <string name="d_saude_2">Health Center near Pyramid</string>
+
+    <string name="bookmark">Bookmark</string>
+    <string name="programacao_descricao">Check the festival\'s schedule, listen to the songs from artists and favorite the ones you like.</string>
+    <string name="bookmark_descricao">If you want to be notified whenever your favorite band or artist will perform, click the Star.</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_descricao">If you want to hear the songs from a band or artist that you do not know, right-click this icon.</string>
+    <string name="mapa_descricao">See Parque do Povo\'s map and check the loacation of the stages, Forró islands, Health Center and more.</string>
+    <string name="mark">Marker</string>
+    <string name="marker_decricao">Know how to find Stages, Forró Islands, Baths, Health Center and more.</string>
+    <string name="camera_descricao">Gather your friends to take São João themed pictures and selfies. You can save it on your device and share them on social networks.</string>
+    <string name="main_camera_descricao">Use the your device main camera and continue taking custom photos.</string>
+    <string name="selfie_descricao">Take a stylish selfie with your friends.</string>
+    <string name="photo">Photo</string>
+    <string name="main_camera">Main Camera</string>
+    <string name="selfie">Selfie</string>
+    <string name="download">Save Image</string>
+    <string name="download_descricao">Save your stylized photo on your device and access it whenever you want.</string>
+    <string name="search_descricao">Enter the name of a band or artist and find out which day it will perform.</string>
+    <string name="lembrete_descricao">Get notifications when your band or artist perform at the Biggest São João of the World.</string>
+    <string name="bt_wifi">WiFi</string>
+    <string name="bt_mobile_network">Mobile Network</string>
+    <string name="enable_network">Enable Internet Connection to use this feature. Click Wifi to open Wifi settings or Mobile Network service to enable your data network.</string>
+    <string name="loading_camera">Wait! Camera is loading.</string>
+
+</resources>

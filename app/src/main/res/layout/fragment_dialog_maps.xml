@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_above="@+id/buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <CheckBox
+                android:id="@+id/checkBoxEnter"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:checked="false"
+                android:text="@string/bt_enter_n_exit" />
+
+            <CheckBox
+                android:id="@+id/checkBoxEmergencyExit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:checked="false"
+                android:text="@string/bt_emerg_exit" />
+
+            <CheckBox
+                android:id="@+id/checkBoxStage"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_stages" />
+
+            <CheckBox
+                android:id="@+id/checkBoxInteresting"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_interesting_point" />
+
+            <CheckBox
+                android:id="@+id/checkBoxIsland"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_forroisland" />
+
+            <CheckBox
+                android:id="@+id/checkBoxBarraca"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_barraca" />
+
+            <CheckBox
+                android:id="@+id/checkBoxBar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_bar" />
+
+            <CheckBox
+                android:id="@+id/checkBoxRestaurant"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_restaurant" />
+
+            <CheckBox
+                android:id="@+id/checkBoxKiosk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_kiosk" />
+
+            <CheckBox
+                android:id="@+id/checkBoxRestroom"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_restoom" />
+
+            <CheckBox
+                android:id="@+id/checkBoxTransport"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_transportation_point" />
+
+            <CheckBox
+                android:id="@+id/checkBoxPolicePoint"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_police_point" />
+
+            <CheckBox
+                android:id="@+id/checkBoxFireMan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_fireman" />
+
+           <!-- <CheckBox
+                android:id="@+id/checkHydro"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_hydro" />-->
+
+            <CheckBox
+                android:id="@+id/checkBoxHealth"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_selector"
+                android:text="@string/bt_health_center" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:layout_height="53dp"
+        android:layout_weight="0.81">
+
+        <Button
+            android:id="@+id/bt_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/bt_cancel"
+            android:textColor="@color/azul" />
+
+        <Button
+            android:id="@+id/bt_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="end"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/bt_ok"
+            android:textColor="@color/azul" />
+    </RelativeLayout>
+</RelativeLayout>

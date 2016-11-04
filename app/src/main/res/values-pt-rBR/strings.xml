@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">São João 2015</string>
+    <string name="app_full_name">O Maior São João do Mundo 2015</string>
+    <string name="no_show">Nenhum show está marcado para este dia</string>
+    <string name="title_activity_map">Mapa</string>
+    <string name="title_activity_camera">Câmera</string>
+    <string name="title_activity_search">Pesquisa</string>
+    <string name="title_activity_lembretes">Lembretes</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_help">Ajuda</string>
+    <string name="action_search">Busca</string>
+    <string name="programacao">Programação</string>
+    <string name="hoje">Hoje</string>
+
+    <string name="sun">Domingo</string>
+    <string name="mon">Segunda-feira</string>
+    <string name="tue">Terça-feira</string>
+    <string name="wed">Quarta-feira</string>
+    <string name="thu">Quinta-feira</string>
+    <string name="fri">Sexta-feira</string>
+    <string name="sat">Sábado</string>
+
+    <string name="bt_restoom">Banheiros</string>
+    <string name="bt_stages">Palcos</string>
+    <string name="bt_enter_n_exit">Entradas e Saídas</string>
+    <string name="bt_emerg_exit">Saídas de Emergência</string>
+    <string name="bt_forroisland">Ilhas de Forró</string>
+    <string name="bt_restaurant">Restaurantes</string>
+    <string name="bt_barraca">Barracas</string>
+    <string name="bt_bar">Bares</string>
+    <string name="bt_kiosk">Quiosques</string>
+    <string name="bt_health_center">Postos de Saúde</string>
+    <string name="bt_police_point">Posto de Polícia</string>
+    <string name="bt_fireman">Bombeiros</string>
+    <!--<string name="bt_hydro">Hidrômetros</string>-->
+    <string name="bt_interesting_point">Pontos Turísticos</string>
+    <string name="bt_transportation_point">Pontos de Transporte</string>
+    <string name="my_location">Minha Localização</string>
+    <string name="bt_cancel">CANCELAR</string>
+    <string name="bt_ok">OK</string>
+    <string name="pinpoint">Marcadores</string>
+    <string name="to_pp">Parque do Povo</string>
+    <string name="shout_route">TRAÇAR ROTA</string>
+    <string name="carregando_localizacao">Sua localização está sendo carregada.</string>
+    <string name="enable_gps">Ative o GPS ou qualquer outro serviço de localização. Click OK para acessar as configurações de serviço.</string>
+
+    <string name="notification_off">Não receber notificações nos dias das atrações marcadas como favoritas</string>
+    <string name="notification_on">Receber notificações nos dias das atrações marcadas como favoritas</string>
+    <string name="sem_bandas">Sem bandas favoritas.</string>
+
+    <string name="help">Ajuda</string>
+    <string name="about">Sobre</string>
+    <string name="action_rate">Avaliar</string>
+    <string name="action_share">Indique a um amigo</string>
+    <string name="share_app_text">Quer saber tudo sobre o São João de Campina Grande? - Encontrei um aplicativo perfeito para Android: O Maior São João do Mundo 2015.
+Obtenha o aplicativo gratuitamente no link </string>
+
+    <string name="ajuda_busca">Digite o nome da atração</string>
+    <string name="nenhum_resultado">Nenhum artista encontrado</string>
+    <string name="ja_se_apresentou">Esse artista já se apresentou</string>
+    <string name="camera_not_found">Câmera não disponível.</string>
+    <string name="no_camera">Esse dispositivo não possui câmera</string>
+    <string name="error_create_media">Erro ao criar arquivo de mídia</string>
+    <string name="img_saved">Imagem Salva com sucesso em sua galeria</string>
+    <string name="present_today_single">Se apresenta hoje</string>
+    <string name="present_today_plural">Se apresentam hoje</string>
+    <string name="its_today">Hoje é o dia!!</string>
+
+    <string name="gate_1">Portão 1</string>
+    <string name="gate_2">Portão 2</string>
+    <string name="gate_3">Portão 3</string>
+    <string name="gate_4">Portão 4</string>
+    <string name="gate_5">Portão 5</string>
+    <string name="gate_6">Portão 6</string>
+    <string name="gate_7">Portão 7</string>
+
+    <string name="emerg_exit_1">House Mix 1</string>
+    <string name="emerg_exit_2">House Mix 2</string>
+    <string name="emerg_exit_3">Pirâmide 1</string>
+    <string name="emerg_exit_4">Pirâmide 2</string>
+
+    <string name="palco_principal">Palco Principal</string>
+    <string name="piramide">Palco Pirâmide</string>
+    <string name="carreta">Carreta Palco</string>
+
+    <string name="cassino">Cassino Eldorado</string>
+    <string name="capitolio">Cine Capitólio</string>
+    <string name="catedral">Catedral</string>
+    <string name="vila_nova">Vila Nova da Rainha</string>
+    <string name="stanto">Stanto Junino</string>
+    <string name="beco">Beco Quadrilhão</string>
+    <string name="memorial">Memorial das Quadrilhas</string>
+    <string name="telegrafo">Telégrafo</string>
+    <string name="fogueira">Fogueira Gigante</string>
+    <string name="abrigo">Abrigo Maringá</string>
+
+    <string name="ilha_1">Palhoça do Seu Vavá</string>
+    <string name="ilha_2">Palhoça do Zé Bezerra</string>
+    <string name="ilha_3">Palhoça do Zé Lagoa</string>
+
+    <string name="barracas">Barracas</string>
+    <string name="bares">Bares</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="quiosques">Quiosques</string>
+
+    <string name="tra_integracao">Terminal de Integração</string>
+    <string name="tra_taxi">Praça de Taxi</string>
+    <string name="tra_moto_taxi">Praça de Moto-Taxi</string>
+
+    <string name="banheiros">Banheiros</string>
+    <string name="policia">Posto de Polícia</string>
+    <string name="bombeiro">Posto de Bombeiros</string>
+    <string name="hidrometros">Hidrômetro</string>
+    <string name="saude">Posto de Saúde</string>
+
+    <string name="d_gate_1">Esquina da Rua Sebastião Donato e Rua Tirandentes</string>
+    <string name="d_gate_2">Rua Desembargador Trindade</string>
+    <string name="d_gate_3">Esquina da Rua Sebastião Donato e Rua Frei Caneca</string>
+    <string name="d_gate_4">Rua Dr. João Moura</string>
+    <string name="d_gate_5">Rua Major Belmiro</string>
+    <string name="d_gate_6">Segunda Entrada na Rua Paulino Raposo</string>
+    <string name="d_gate_7">Primeira Entrada na Rua Paulino Raposo</string>
+
+    <string name="d_emerg_exit_1">Saída de Emergência Oeste da Pista de Dança do Palco Principal</string>
+    <string name="d_emerg_exit_2">Saída de Emergência Leste da Pista de Dança do Palco Principal</string>
+    <string name="d_emerg_exit_3">Saída de Emergência por trás do Palco da Pirâmide</string>
+    <string name="d_emerg_exit_4">Saída de Emergência Principal da Pirâmide</string>
+
+    <string name="d_palco_principal">Palco onde se apresentam as principais atrações do São João</string>
+    <string name="d_palco_piramide">Palco dentro da Pirâmide onde acontecem alguns eventos e apresentações vários artistas.</string>
+    <string name="d_carreta">Palco montado sobre uma Carreta com a réplica da fachada do antigo Abrigo Maringá</string>
+
+    <string name="d_cassino">Réplica em tamanho real do antigo Cassino Eldorado</string>
+    <string name="d_capitolio">Réplica em tamanho real da fachada do antigo Cine Capitólio</string>
+    <string name="d_catedral">Réplica em tamanho real da fachada da Igreja Matriz de Campina Grande</string>
+    <string name="d_vila_nova">Representação da antiga Campina Grande, quando era conhecida por Vila Nova da Rainha</string>
+    <string name="d_stanto" />
+    <string name="d_beco" />
+    <string name="d_memorial" />
+    <string name="d_telegrafo">Réplica em tamanho real da fachada do Telégrafo</string>
+    <string name="d_fogueira">Fogueira Gigante, símbolo do São João</string>
+
+    <string name="d_ilha">Local onde se apresentam Trios de Forró: Sanfona, Triangulo e Zabumba. Só entra acompanhado.</string>
+
+    <string name="d_barraca">Lanchonetes ou pequenos restaurantes, onde você pode encontrar comida.</string>
+    <string name="d_bar">Estabelecimentos onde geralmente são encontrados petiscos e bebidas.</string>
+    <string name="d_restaurante">Estabelecimentos de grande porte onde encontra-se comida.</string>
+    <string name="d_quiosque">Pequenos estabelecimentos onde encontra-se comida e bebida.</string>
+
+    <string name="d_bath_4">Próximo à Vila Nova da Rainha</string>
+    <string name="d_bath_p">Por trás do Palco da Pirâmide</string>
+    <string name="d_bath_1">No hall de entrada do Portão 6</string>
+
+    <string name="d_integracao">Terminal de Integração onde passam a maioria das linhas de ônibus da cidade</string>
+    <string name="d_taxi">Praça de taxi onde é possivel contratar transporte via carro</string>
+    <string name="d_mototaxi">Praça de moto taxi onde é possivel contratar transporte via moto</string>
+
+    <string name="d_policia">Unidade de Polícia dentro do Parque do Povo</string>
+    <string name="d_bombeiro">Unidade do Corpo de Bombeiros dentro do Parque do Povo</string>
+    <!--<string name="d_hidrometro">Local onde pode ser encontrado um hidrômetro</string>-->
+    <string name="d_saude_1">Posto de Saúde próximo ao Palco Principal</string>
+    <string name="d_saude_2">Posto de Saúde próximo à Pirâmide</string>
+
+    <string name="bookmark">Favoritar</string>
+    <string name="programacao_descricao">Veja a programação de cada dia de festa, escute as músicas daquele artista que você ainda não conhece e favorite aqueles que você mais gosta.</string>
+    <string name="bookmark_descricao">Se você quer ser lembrado quando sua banda ou artista favorito for se apresentar, dê um clique na Estrela.</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_descricao">Se você quer ouvir as músicas daquela banda ou artista que você ainda não conhece, dê um clique neste ícone.</string>
+    <string name="mapa_descricao">Visualize o parque do povo e saiba onde se encontram os palcos, ilhas de forró, postos de saúde e muito mais.</string>
+    <string name="mark">Marcador</string>
+    <string name="marker_decricao">Saiba onde se encontram os Palcos, Ilhas de forró, Banheiros, Posto de Saúde e muito mais.</string>
+    <string name="camera_descricao">Junte seus amigos e tire fotos e selfies cheias de estilo. Você pode salvar as fotos no seu   dispositivo e compartilhar nas suas redes sociais.</string>
+    <string name="main_camera_descricao">Use a câmera principal de seu dispositivo e continue tirando fotos customizadas.</string>
+    <string name="selfie_descricao">Tire uma selfie cheia de estilo com sua turma.</string>
+    <string name="photo">Foto</string>
+    <string name="main_camera">Câmera Principal</string>
+    <string name="selfie">Selfie</string>
+    <string name="download">Salvar Imagem</string>
+    <string name="download_descricao">Salve sua foto estilizada em seu dispositivo e veja sempre que quiser.</string>
+    <string name="search_descricao">Digite o nome de uma banda ou artista e saiba o dia em que eles vão se apresentar.</string>
+    <string name="lembrete_descricao">Receba notificações quando sua banda ou artista for se apresentar no Maior São João do Mundo.</string>
+    <string name="app_id">br.edu.ufcg.embedded.saojoao</string>
+
+    <string name="bt_mobile_network">Rede Móvel</string>
+    <string name="enable_network">Ative a Conexão com a Internet para usar esse recurso. Clique Wifi para abrir serviço de Wifi ou Rede Móvel para ativar a rede de dados da sua operadora.</string>
+    <string name="loading_camera">Espere! Carregando a Câmera.</string>
+
+
+</resources>

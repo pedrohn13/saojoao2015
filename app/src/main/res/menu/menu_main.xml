@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ufcg.embedded.saojoao.activity.MainActivity">
+    <item
+        android:id="@+id/action_location"
+        android:icon="@drawable/ic_menu_locations"
+        android:orderInCategory="100"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_nav_search"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:visible="false"
+        app:showAsAction="collapseActionView|ifRoom" />
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        android:title="@string/action_rate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="@string/action_share"
+        app:showAsAction="never" />
+
+</menu>
